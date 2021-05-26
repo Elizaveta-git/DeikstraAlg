@@ -1,0 +1,4 @@
+﻿  DeikstraAlgTests.cpp
+C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\DeikstraAlg\Deikstra.cpp(14,22): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\DeikstraAlg\Debug\DeikstraAlgTests.lib и объект C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\DeikstraAlg\Debug\DeikstraAlgTests.exp
+  DeikstraAlgTests.vcxproj -> C:\Users\dns\Desktop\учеба\Алгоритмы и структуры данных\DeikstraAlg\Debug\DeikstraAlgTests.dll
